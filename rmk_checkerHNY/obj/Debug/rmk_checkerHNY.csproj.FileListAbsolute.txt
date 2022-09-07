@@ -1,0 +1,10 @@
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\bin\Debug\rmk_checkerHNY.exe.config
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\bin\Debug\rmk_checkerHNY.exe
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\bin\Debug\rmk_checkerHNY.pdb
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\obj\Debug\rmk_checkerHNY.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\obj\Debug\rmk_checkerHNY.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\obj\Debug\rmk_checkerHNY.csproj.CopyComplete
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\obj\Debug\rmk_checkerHNY.exe
+C:\Users\Matt\source\repos\rmk_checkerHNY\rmk_checkerHNY\obj\Debug\rmk_checkerHNY.pdb
